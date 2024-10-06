@@ -1,5 +1,5 @@
 # the name of project
-Simple book crud
+Management Book and Category
 # step to run the project 
 1- add data base name in phpmyadmin
 2- add the database name in .env
